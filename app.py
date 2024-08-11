@@ -3,7 +3,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 import pandas as pd
 import io
 
-st.title("KitchenWiz")
+st.title("BuzzBot")
 
 # Initialize chat history if not already present
 if "chat_history" not in st.session_state:
