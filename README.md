@@ -70,7 +70,7 @@ streamlit run app.py
 ***Dependency Issues***: Ensure all required libraries are installed. If you encounter issues, check the library documentation or update the dependencies.
 ***File Not Found***: Make sure the .streamlit/secrets.toml file is correctly placed in the project directory.
 
-**Contributing**
+##Contributing
 
 If you want to contribute to BuzzBot:
 
@@ -81,11 +81,11 @@ Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature/your-feature).
 Create a Pull Request.
 
-**License**
+##License
 
 BuzzBot is licensed under the MIT License.
 
-**Contact**
+##Contact
 
 For questions or feedback:
 
