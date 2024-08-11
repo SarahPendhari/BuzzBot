@@ -45,7 +45,7 @@ GOOGLE_API_KEY = "your_google_api_key"
 Replace "your_google_api_key" with your actual Google API key.
 
 5. **Usage**
-  1. Run the Application
+     Run the Application
 
 Start the Streamlit app:
 
@@ -53,36 +53,44 @@ Start the Streamlit app:
 streamlit run app.py
 ```
 
-  2. Explore the Tabs
+   Explore the Tabs
 
 ***Chat Tab***: Enter queries related to "The Chef Story" and receive responses. You can also view and clear chat history.
 ***Menu Tab***: Browse through a paginated menu with item details and current offers.
 ***Quiz Tab***: Start and participate in a quiz about "The Chef Story" to test your knowledge.
 
 **Configuration**
+
 ***API Keys***: Ensure you have a valid API key for the Google Generative AI service. Add it to the secrets.toml file.
 ***Menu and Quiz Content***: Customize menu items and quiz questions directly in the app.py file as needed.
 
 **Troubleshooting**
+
 ***API Key Error***: Verify that the API key in secrets.toml is correct and properly formatted.
 ***Dependency Issues***: Ensure all required libraries are installed. If you encounter issues, check the library documentation or update the dependencies.
 ***File Not Found***: Make sure the .streamlit/secrets.toml file is correctly placed in the project directory.
 
 **Contributing**
+
 If you want to contribute to BuzzBot:
 
 ***Fork the repository***
+
 Create a new branch (git checkout -b feature/your-feature).
 Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature/your-feature).
 Create a Pull Request.
 
 **License**
+
 BuzzBot is licensed under the MIT License.
 
 **Contact**
+
 For questions or feedback:
 
 Name: Sarah Pendhari
+
 Email: sarahpendhari@gmail.com
+
 GitHub: SarahPendhari
